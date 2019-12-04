@@ -1,0 +1,26 @@
+{
+  "name": "jsautomation",
+  "version": "1.0.0",
+  "description": "JavaScript automation course",
+  "main": "task1_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor8623/JSAutomation.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Viktor Yenjchak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor8623/JSAutomation/issues"
+  },
+  "homepage": "https://github.com/viktor8623/JSAutomation#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27"
+  }
+}
